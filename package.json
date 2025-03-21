@@ -1,0 +1,11 @@
+{
+  "name": "distributed-task-mesh",
+  "version": "2.1.0",
+  "description": "Distributed task queue with worker pools and priority scheduling",
+  "type": "module",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "node --test"
+  }
+}
